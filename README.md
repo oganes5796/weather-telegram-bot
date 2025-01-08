@@ -10,6 +10,6 @@
 
 ## Как использовать
 
-1. Найдите бота в Telegram по имени [@YourBotName]([https://t.me/Weather Bot](https://t.me/weather_oganes5796_bot).
+1. Найдите бота в Telegram по имени Weather Bot(https://t.me/weather_oganes5796_bot).
 2. Начните диалог с ботом, отправив команду `/start`.
 3. Введите название города, чтобы получить текущую погоду.
